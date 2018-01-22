@@ -1,5 +1,5 @@
 body {
-    background-image: url("file:///Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/sayagata-400px/sayagata-400px.png")
+    background-image: url("../images/sayagata-400px/sayagata-400px.png")
 }
 
 header {
@@ -213,7 +213,7 @@ input[type=submit]:hover {
 }
 
 .scratch {
-    background-image:url(file:///Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/Screen%20Shot%202018-01-18%20at%203.35.08%20PM.png);
+    background-image:url(./assets/images/Screen%20Shot%202018-01-18%20at%203.35.08%20PM.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -234,7 +234,7 @@ input[type=submit]:hover {
 }
 
 .chicken {
-    background-image:url(file:///Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/chickennuggets.jpg);
+    background-image:url(./assets/images/chickennuggets.jpg);
     height: 200px;
     width: 300px;
     background-size: cover;
@@ -257,7 +257,7 @@ input[type=submit]:hover {
 }
 
 .comingsoon {
-    background-image:url(/Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/comingsoon.jpg);
+    background-image:url(./assets/images/comingsoon.jpg);
     height: 200px;
     width: 300px;
     background-size: cover;
@@ -280,7 +280,7 @@ input[type=submit]:hover {
 }
 
 .comingsoon2 {
-    background-image:url(/Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/comingsoon.jpg);
+    background-image:url(./assets/images/comingsoon.jpg);
     height: 200px;
     width: 300px;
     background-size: cover;
@@ -303,7 +303,7 @@ input[type=submit]:hover {
 }
 
 .comingsoon3 {
-    background-image:url(/Users/christinawu/Desktop/code/Basic-Portfolio/assets/images/comingsoon.jpg);
+    background-image:url(./assets/images/comingsoon.jpg);
     height: 200px;
     width: 300px;
     background-size: cover;
